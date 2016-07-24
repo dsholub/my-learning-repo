@@ -1,0 +1,94 @@
+body {  
+	background: #f9e933;
+}
+header, main, footer {
+	min-width: 855px;
+}
+header .container, main .container, footer .container {  
+	max-width: 855px;  
+	margin: auto;
+	}
+header {  
+	background: white;
+	overflow: auto;
+	padding: 35px;
+	 border-bottom-width: 2px;
+	 border-bottom-color: gray;
+	 border-bottom-style: solid;
+	}
+	header h1 {
+		font-style: italic;
+		font-size: 3em;
+	}
+h1 {
+	float: left;
+	width: 570px;
+	height: 50px;
+}
+header nav {
+	float: right;
+	width: 285px;
+}
+main {  
+		background: white;
+		overflow: auto;
+		padding: 20px;
+	}
+.content {
+	float: left;
+	width: 570px;
+}
+img {
+	float: right;
+	width: 285px;
+}
+footer {
+	overflow: auto;
+	padding: 10px;
+}
+.contact {
+	float: left;
+	width: 570px;
+}
+.sitemap {
+	float: right;
+	width: 285px;
+}
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+ul {
+    display: block;
+    list-style-type: circle; 
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+h1, h2, h3, h4, h5 {
+	font-family: 'ubuntu', sans-serif;
+}
+body {
+	font-family: 'droid+sans', sans-serif;
+}
+p {
+	font-size: 100%
+}
+h1 {
+	font-size: xx-large;
+}
+h2 {
+	font-size: x-large;
+	height: 20px;
+	margin-top: 20px;
+}
+h5 {
+	margin-bottom: 1em;
+}
