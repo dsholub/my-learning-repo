@@ -1,0 +1,26 @@
+[
+{
+	"description" : "Buy groceries"
+	"tags" : ["shopping", "routine"]
+},
+{
+"description" : "Update few new tasks"
+	"tags" : ["writing", "work"]	
+},
+{
+"description" : "Prepare to lessons on Monday"
+	"tags" : ["work", "tutoring"]	
+},
+{
+"description" : "Reply on LinkedIn"
+	"tags" : ["work"]	
+},
+{
+"description" : "Go for a walk"
+	"tags" : ["routine", "rest"]	
+},
+{
+"description" : "Finish with book"
+	"tags" : ["writing", "work"]	
+},
+]
